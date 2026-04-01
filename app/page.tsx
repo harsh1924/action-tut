@@ -4,6 +4,7 @@ export default function Home() {
       <h1 className="text-3xl font-bold underline">Hello, This is a Next.js App for Github Action Test Purpose</h1>
       <p className="text-xl font-semibold">Now, we will test Github Actions</p>
       <p className="text-xl font-semibold">First one failed. Now going for second one.....</p>
+      <p className="text-xl font-semibold">Second also failed.Found the error. Now going for third one.....</p>
     </div>
   );
 }
